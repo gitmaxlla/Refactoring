@@ -1,0 +1,7 @@
+[submodule "Lab1/todo-app-original"]
+	path = Lab1/todo-app-original
+	url = git@github.com:gitmaxlla/todo-app-refactoring.git
+[submodule "Lab1/todo-app-refactored"]
+	path = Lab1/todo-app-refactored
+	url = git@github.com:gitmaxlla/todo-app-refactoring.git
+	branch = result
