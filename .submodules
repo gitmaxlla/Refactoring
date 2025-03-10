@@ -1,0 +1,8 @@
+[submodule "todo-app-original"]
+	path = todo-app
+	url = https://github.com/gitmaxlla/todo-app-refactoring
+
+[submodule "todo-app-refactored"]
+	path = todo-app-refactored
+	url = https://github.com/gitmaxlla/todo-app-refactoring
+	brach = result
