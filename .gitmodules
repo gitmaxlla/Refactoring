@@ -4,3 +4,9 @@
 [submodule "Lab1/todo-app-refactored"]
 	path = Lab1/todo-app-refactored
 	url = git@github.com:gitmaxlla/todo-app-refactoring.git
+[submodule "Lab2/image-converter-api-original"]
+	path = Lab2/image-converter-api-original
+	url = git@github.com:gitmaxlla/image-converter-api-refactoring.git
+[submodule "Lab2/image-converter-api-refactored"]
+	path = Lab2/image-converter-api-refactored
+	url = git@github.com:gitmaxlla/image-converter-api-refactoring.git
