@@ -14,11 +14,17 @@ public class GameEngine
     private final Player _player2;
     private Player _currentPlayer;
 
-    public GameEngine(Player player1, Player player2)
+    private static Player getPlayersName(int order) {
+        String prompt = String.format("Enter Player %d Name: ", order);
+        System.out.print(prompt);
+        return new Player(scanner.nextLine());
+    }
+
+    public GameEngine()
     {
         _chessBoard = new ChessBoard();
-        _player1 = player1;
-        _player2 = player2;
+        _player1 = getPlayersName(1);
+        _player2 = getPlayersName(2);
     }
 
     private String playerColorMessage(Player player) {
