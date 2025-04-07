@@ -10,3 +10,6 @@
 [submodule "Lab2/image-converter-api-refactored"]
 	path = Lab2/image-converter-api-refactored
 	url = git@github.com:gitmaxlla/image-converter-api-refactoring.git
+[submodule "Lab3/exercise_original"]
+	path = Lab3/exercise_original
+	url = git@github.com:harshmanocha/Refactoring.git
