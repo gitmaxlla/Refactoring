@@ -20,6 +20,13 @@ public class GameEngine
         return new Player(scanner.nextLine());
     }
 
+    public GameEngine(Player player1, Player player2)
+    {
+        _chessBoard = new ChessBoard();
+        _player1 = player1;
+        _player2 = player2;
+    }
+
     public GameEngine()
     {
         _chessBoard = new ChessBoard();
