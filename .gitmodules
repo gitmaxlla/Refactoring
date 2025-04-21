@@ -13,3 +13,9 @@
 [submodule "Lab3/exercise_original"]
 	path = Lab3/exercise_original
 	url = git@github.com:harshmanocha/Refactoring.git
+[submodule "Lab4/refactored"]
+	path = Lab4/refactored
+	url = git@github.com:gitmaxlla/dijkstras-thing.git
+[submodule "Lab4/original"]
+	path = Lab4/original
+	url = git@github.com:gitmaxlla/dijkstras-thing.git
