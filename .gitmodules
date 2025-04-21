@@ -17,5 +17,8 @@
 	path = Lab4/refactored
 	url = git@github.com:gitmaxlla/dijkstras-thing.git
 [submodule "Lab4/original"]
-	path = Lab4/original
+	path = Lab4/original-with-comments/
 	url = git@github.com:gitmaxlla/dijkstras-thing.git
+[submodule "Lab4/original-with-comments"]
+	path = Lab4/original-with-comments
+	url = https://github.com/gitmaxlla/dijkstras-thing
